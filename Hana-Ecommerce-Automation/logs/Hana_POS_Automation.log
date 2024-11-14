@@ -1,0 +1,156 @@
+[DEBUG] 2024-11-14 14:24:21.587 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+[DEBUG] 2024-11-14 14:24:21.593 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+[DEBUG] 2024-11-14 14:24:21.594 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+[DEBUG] 2024-11-14 14:24:21.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+[DEBUG] 2024-11-14 14:24:21.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+[DEBUG] 2024-11-14 14:24:21.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+[DEBUG] 2024-11-14 14:24:21.598 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+[DEBUG] 2024-11-14 14:24:21.599 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+[DEBUG] 2024-11-14 14:24:21.600 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+[DEBUG] 2024-11-14 14:24:21.600 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+[DEBUG] 2024-11-14 14:24:21.601 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+[DEBUG] 2024-11-14 14:24:21.602 [main] PackageRelationshipCollection - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+[DEBUG] 2024-11-14 14:24:21.603 [main] PackageRelationshipCollection - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+[DEBUG] 2024-11-14 14:24:21.604 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-14 14:24:21.606 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-14 14:24:21.607 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-11-14 14:24:21.608 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-11-14 14:24:21.610 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-11-14 14:24:21.611 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-11-14 14:24:21.611 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-11-14 14:24:21.612 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-11-14 14:24:21.613 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-11-14 14:24:21.614 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-14 14:24:22.086 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.122 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 14:24:22.122 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 14:24:22.122 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 14:24:22.122 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.129 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 14:24:22.129 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.135 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.141 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 14:24:22.141 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.141 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.146 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.152 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 14:24:22.685 [main] ZipPackage - Save content types part
+[DEBUG] 2024-11-14 14:24:22.751 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-11-14 14:24:22.753 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-11-14 14:24:22.753 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-11-14 14:24:22.755 [main] ZipPackage - Save part 'xl/charts/chart1.xml'
+[DEBUG] 2024-11-14 14:24:22.756 [main] ZipPackage - Save part 'xl/charts/chart2.xml'
+[DEBUG] 2024-11-14 14:24:22.756 [main] ZipPackage - Save part 'xl/charts/chart3.xml'
+[DEBUG] 2024-11-14 14:24:22.757 [main] ZipPackage - Save part 'xl/charts/chart4.xml'
+[DEBUG] 2024-11-14 14:24:22.758 [main] ZipPackage - Save part 'xl/charts/chart5.xml'
+[DEBUG] 2024-11-14 14:24:22.760 [main] ZipPackage - Save part 'xl/charts/chart6.xml'
+[DEBUG] 2024-11-14 14:24:22.760 [main] ZipPackage - Save part 'xl/charts/chart7.xml'
+[DEBUG] 2024-11-14 14:24:22.762 [main] ZipPackage - Save part 'xl/charts/chart8.xml'
+[DEBUG] 2024-11-14 14:24:22.762 [main] ZipPackage - Save part 'xl/charts/chart9.xml'
+[DEBUG] 2024-11-14 14:24:22.762 [main] ZipPackage - Save part 'xl/charts/chart10.xml'
+[DEBUG] 2024-11-14 14:24:22.763 [main] ZipPackage - Save part 'xl/charts/chart11.xml'
+[DEBUG] 2024-11-14 14:24:22.764 [main] ZipPackage - Save part 'xl/charts/chart12.xml'
+[DEBUG] 2024-11-14 14:24:22.764 [main] ZipPackage - Save part 'xl/comments1.xml'
+[DEBUG] 2024-11-14 14:24:22.764 [main] ZipPackage - Save part 'xl/drawings/drawing1.xml'
+[DEBUG] 2024-11-14 14:24:22.766 [main] ZipPackage - Save part 'xl/drawings/drawing2.xml'
+[DEBUG] 2024-11-14 14:24:22.766 [main] ZipPackage - Save part 'xl/drawings/drawing3.xml'
+[DEBUG] 2024-11-14 14:24:22.766 [main] ZipPackage - Save part 'xl/drawings/drawing4.xml'
+[DEBUG] 2024-11-14 14:24:22.767 [main] ZipPackage - Save part 'xl/drawings/drawing5.xml'
+[DEBUG] 2024-11-14 14:24:22.768 [main] ZipPackage - Save part 'xl/drawings/drawing6.xml'
+[DEBUG] 2024-11-14 14:24:22.768 [main] ZipPackage - Save part 'xl/drawings/drawing8.xml'
+[DEBUG] 2024-11-14 14:24:22.769 [main] ZipPackage - Save part 'xl/drawings/drawing9.xml'
+[DEBUG] 2024-11-14 14:24:22.770 [main] ZipPackage - Save part 'xl/drawings/vmlDrawing1.vml'
+[DEBUG] 2024-11-14 14:24:22.770 [main] ZipPackage - Save part 'xl/externalLinks/externalLink1.xml'
+[DEBUG] 2024-11-14 14:24:22.771 [main] ZipPackage - Save part 'xl/externalLinks/externalLink2.xml'
+[DEBUG] 2024-11-14 14:24:22.772 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2024-11-14 14:24:22.772 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings2.bin'
+[DEBUG] 2024-11-14 14:24:22.773 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings4.bin'
+[DEBUG] 2024-11-14 14:24:22.773 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings5.bin'
+[DEBUG] 2024-11-14 14:24:22.773 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings8.bin'
+[DEBUG] 2024-11-14 14:24:22.774 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-11-14 14:24:22.774 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-11-14 14:24:22.774 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2024-11-14 14:24:22.775 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-11-14 14:24:22.777 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2024-11-14 14:24:22.778 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2024-11-14 14:24:22.779 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[DEBUG] 2024-11-14 14:24:22.780 [main] ZipPackage - Save part 'xl/worksheets/sheet5.xml'
+[DEBUG] 2024-11-14 14:24:22.781 [main] ZipPackage - Save part 'xl/worksheets/sheet8.xml'
+[DEBUG] 2024-11-14 15:25:56.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart3.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart4.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart5.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart7.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/charts/_rels/chart10.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing1.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing5.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing7.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing8.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing10.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/drawings/_rels/drawing11.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/externalLinks/_rels/externalLink1.xml.rels
+[DEBUG] 2024-11-14 15:25:56.316 [main] PackageRelationshipCollection - Parsing relationship: /xl/externalLinks/_rels/externalLink2.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet4.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet8.xml.rels
+[DEBUG] 2024-11-14 15:25:56.332 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-14 15:25:56.755 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.786 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 15:25:56.786 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 15:25:56.786 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 15:25:56.786 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.802 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 15:25:56.802 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.802 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.818 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/chartUserShapes
+[DEBUG] 2024-11-14 15:25:56.818 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.818 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.818 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:56.818 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-14 15:25:57.460 [main] ZipPackage - Save content types part
+[DEBUG] 2024-11-14 15:25:57.523 [main] ZipPackage - Save package relationships
+[DEBUG] 2024-11-14 15:25:57.523 [main] ZipPackage - Save part 'docProps/app.xml'
+[DEBUG] 2024-11-14 15:25:57.523 [main] ZipPackage - Save part 'docProps/core.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart1.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart2.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart3.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart4.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart5.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart6.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart7.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart8.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart9.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart10.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart11.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/charts/chart12.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/comments1.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing1.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing2.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing3.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing4.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing5.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing6.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing8.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/drawing9.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/drawings/vmlDrawing1.vml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/externalLinks/externalLink1.xml'
+[DEBUG] 2024-11-14 15:25:57.539 [main] ZipPackage - Save part 'xl/externalLinks/externalLink2.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings1.bin'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings2.bin'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings4.bin'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings5.bin'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/printerSettings/printerSettings8.bin'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/sharedStrings.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/styles.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/theme/theme1.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/workbook.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/worksheets/sheet5.xml'
+[DEBUG] 2024-11-14 15:25:57.554 [main] ZipPackage - Save part 'xl/worksheets/sheet8.xml'
